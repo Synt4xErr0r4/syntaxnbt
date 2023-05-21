@@ -1,4 +1,4 @@
-# SyntaxNBT [![javadoc](https://img.shields.io/endpoint?label=javadoc&url=https%3A%2F%2Fjavadoc.syntaxerror.at%2Fsyntaxnbt%2F%3Fbadge%3Dtrue%26version%3Dlatest)](https://javadoc.syntaxerror.at/syntaxnbt/latest) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Synt4xErr0r4/syntaxnbt/Java%20CI%20with%20Maven)
+# SyntaxNBT [![javadoc](https://img.shields.io/endpoint?label=javadoc&url=https%3A%2F%2Fjavadoc.syntaxerror.at%2Fsyntaxnbt%2F%3Fbadge%3Dtrue%26version%3Dlatest)](https://javadoc.syntaxerror.at/syntaxnbt/latest) ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Synt4xErr0r4/syntaxnbt/maven.yml)
 
 A NBT and SNBT library for Java (17)
 
